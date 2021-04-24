@@ -2,10 +2,17 @@
 
 Linux Systems Engineer
 
-Enjoys:
+Accomplished:
 - Tinkering with Linux
-- Programming
-- Playing Melodeon
+- Software Developer
+- Accordion Player
+
+Amateur:
+- Bread Baker
+- Rock Climber
+
+Downright Inept:
+- Carpentry
 
 <!---
 jak-sdk/jak-sdk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
