@@ -3,7 +3,7 @@
 Linux Systems Engineer
 
 Accomplished:
-- Tinkering with Linux
+- Linux and Distributed Systems
 - Software Developer
 - Accordion Player
 
